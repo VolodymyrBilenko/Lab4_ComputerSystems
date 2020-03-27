@@ -1,2 +1,2 @@
 # VolodymyrBilenko
-Repository for computer system labs
+Repository for computer systems labs
